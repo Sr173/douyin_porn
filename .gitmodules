@@ -1,0 +1,9 @@
+[submodule "third_party/cpr"]
+	path = third_party/cpr
+	url = https://github.com/whoshuu/cpr
+[submodule "third_party/jsoncpp"]
+	path = third_party/jsoncpp
+	url = https://github.com/open-source-parsers/jsoncpp
+[submodule "third_party/spdlog"]
+	path = third_party/spdlog
+	url = https://github.com/gabime/spdlog
